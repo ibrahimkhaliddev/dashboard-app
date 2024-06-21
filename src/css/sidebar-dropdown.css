@@ -1,0 +1,57 @@
+.sidebar-options-menu .logo-in-menu{
+    float: left;
+    clear: both;
+    width: 20px;
+    margin-right: 15px;
+}
+.sidebar-options-menu{
+    padding: 10px;
+    margin-bottom: -120px;
+}
+.sidebar-options-menu ul li{ 
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    color: #4A5055;
+
+}
+.sidebar-options-menu ul li span{
+    font-size: 14px;
+    letter-spacing: 0.1px;
+}
+.bottom-border-ul{
+    /* padding-bottom: 10px; */
+    border-bottom: 1px solid #ddd;
+}
+.sign-out-ul{
+    color: #B93331;
+}
+.sign-out-ul .logo-in-menu{
+    color: #B93331 !important;
+}
+.app-version{
+    color: #ddd;
+    font-size: 14px;
+}
+.user-name-in-side-menu p{
+    font-size: 14px;
+    letter-spacing: .2px;
+    font-weight: 500;
+    width: 90%;
+}
+.user0in0menu{
+    width: 90%;
+}
+.user0in0menu .user-email{
+    font-size: 14px;
+    color: #667085;
+    font-weight: 400;
+    margin-top: 3px;
+}
+.hr-1{
+    padding: -10px 0px -10px 0;
+    margin: -10px 0px -10px 0;
+}
+.side-menu-ul-container{
+    padding-top: 5px;
+}

@@ -1,0 +1,45 @@
+.switch-model{
+    width: 500px;
+}
+.switch-model img{
+    float: left;
+    width: 40px;
+    margin-right: 10px;
+    clear: both;
+}
+.switch-model .site-det{
+    font-size: 12px;
+}
+.switch-model .site-det b{
+    font-weight: normal;
+    color: #1F272E;
+    display: inline-block;
+    padding-top: 2px;
+}
+.switch-model .site-det span{
+    font-size: 10px;
+    color: #687178;
+}
+
+.switch-model  .site-det-status{
+    font-size: 9px;
+    background-color:  #E5F5FF;
+    padding: 3px 6px 3px 6px;
+    border-radius: 15px;
+}
+
+.hr-1{
+    width: 100%;
+}
+.model-section-break{
+    color: #333333;
+   
+    margin: -20px 0 15px 0;
+
+}
+.after-first-site li{
+    margin: 15px 0 15px 0;
+}
+.user-image-inside-menu{
+    float: left;
+}
